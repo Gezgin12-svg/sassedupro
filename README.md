@@ -45,8 +45,6 @@ Bu proje;
 
 amacıyla geliştirilmiştir.
 
----
-
 
 
 ---
