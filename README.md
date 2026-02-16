@@ -38,21 +38,6 @@
 
     <pre>
 
-Udemig-Akademi/
-│
-├── index.html
-├── css/
-│ └── style.css
-│
-├── scss/
-│ ├── style.scss
-│ ├── \_variables.scss
-│ ├── \_header.scss
-│ ├── \_footer.scss
-│ ├── \_home.scss
-│
-└── images/
-</pre>
 
     <hr>
 
@@ -78,8 +63,7 @@ Udemig-Akademi/
 
     <pre>
 
-git clone https://github.com/kullaniciadi/udemig-akademi.git
-</pre>
+
 
     <p>
         Ardından <strong>index.html</strong> dosyasını tarayıcıda açmanız yeterlidir.
