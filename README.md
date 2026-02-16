@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 
 # 🎓 Udemig Akademi
 
